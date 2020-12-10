@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "apple",
+    "title": "Apple",
+    "description": "Lorem ipsum apple",
+    "price": 0.8,
+    "quantity": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "chair_table",
+    "title": "Chair",
+    "description": "Lorem ipsum chair",
+    "price": 78.6,
+    "quantity": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "chaie_table",
+    "title": "Table",
+    "description": "Lorem ipsum table",
+    "price": 90.5,
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "imageUrl": "orange",
+    "title": "Orange",
+    "description": "Lorem ipsum orange",
+    "price": 1.3,
+    "quantity": 3
+  }
+]
